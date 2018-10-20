@@ -1,6 +1,6 @@
 package hw6.parser;
 
-import expression.*;
+import hw6.expression.*;
 
 
 public class ExpressionParser implements Parser {

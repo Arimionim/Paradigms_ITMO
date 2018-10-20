@@ -1,6 +1,6 @@
 package hw6.parser;
 
-import expression.TripleExpression;
+import hw6.expression.TripleExpression;
 
 public interface Parser {
     TripleExpression parse(String expression);
